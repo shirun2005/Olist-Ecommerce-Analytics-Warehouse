@@ -10,9 +10,11 @@ This project builds an end-to-end PostgreSQL analytics warehouse on the Olist da
 
 **Demand & Revenue Dashboard:**
 ![Olist Dashboard](olist-bie/pictures/dashboard-1-2018.png)
+➡️ **Interactive Dashboard:** [Open in Tableau]([PASTE_YOUR_TABLEAU_URL_HERE](https://public.tableau.com/app/profile/sirinya.hirunviriya/viz/OlistEcommerceAnalyticsDashboard-RevenuevsDeliveryReliability/Homepage))
 
 **Late Delivery & Diagnostic Dashboard:**
 ![Olist Dashboard](olist-bie/pictures/dashboard-2-2018.png)
+➡️ **Interactive Dashboard:** [Open in Tableau]([PASTE_YOUR_TABLEAU_URL_HERE](https://public.tableau.com/app/profile/sirinya.hirunviriya/viz/OlistEcommerceAnalyticsDashboard-RevenuevsDeliveryReliability/Homepage))
 
 ---
 
