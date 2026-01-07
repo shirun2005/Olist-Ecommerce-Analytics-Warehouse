@@ -25,6 +25,7 @@ This project uses the **Olist Brazilian ecommerce dataset** , a real-world marke
 - **Order items:** 112,650  
 - **Total GMV (booked):** 15,843,553.24  
 - **Avg daily late rate (delivered orders):** 6.74%
+
 ➡️ **Dataset Inspiration:** [Brazilian E-Commerce Public Dataset by Olist](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)
 
 ---
